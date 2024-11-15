@@ -1,0 +1,35 @@
+Q1:
+   Binary: 16
+   Decimal: 10000
+   Hexadecimal: 65536
+   
+Q2: 1962469850
+
+
+Q3: 6D5
+
+
+Q4: 1001110100
+
+
+Q5: 7A855A1
+
+
+Q6: 000001110100111110001110100111011010
+
+
+Q7: 1781
+
+Question 8: 
+The error is that instead of testing if test is equal to 10, the if statement is just setting test equal to test.  To fix this a == sign should be placed inside the if statement instead of =.
+
+Question 9:
+The error here is that the conditional for the if statement is not inside parentheses, causing a syntax error.  To fix this "test == 10" should be placed inside parentheses.
+
+Question 10:
+The error here is that there are no curly brackets surrounding the body of the if statement.  This would be ok if there was only one statement inside the if, but with two statements the program will not read the second one without both statements inside curly brackets.
+
+
+ピーターラビット シリーズ
+
+

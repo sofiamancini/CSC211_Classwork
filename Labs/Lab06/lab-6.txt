@@ -1,0 +1,15 @@
+✅ Question 1. What is the largest size string we could store into this variable?
+
+The longest string we could store is a 9-character string
+
+✅ Question 2. What is the largest size string we could store into an arbitrary variable of size n?
+
+The longest string is an N-1 character-long string
+
+✅ Question 3. What do you think will happen if a string has no null terminator?
+
+It will break the program because the string never ends and the action is never terminated
+
+✅ Question 4. What does this mean we can do with strings to look for where it ends?
+
+You can index to n-1 to get the last character of the string.

@@ -1,0 +1,10 @@
+Question 3:
+Program Output:
+    35
+
+Question 4:
+Program Output:
+    1: a=21, b=12
+    2: a=21, b=22
+    3: a=1, b=3
+
